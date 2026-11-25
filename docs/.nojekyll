@@ -1,0 +1,4 @@
+/*  --- vacío a propósito ---
+ *  GitHub Pages procesa Jekyll por defecto e ignora carpetas que empiezan por "_".
+ *  Este archivo desactiva Jekyll y sirve los .html tal cual, sin transformarlos.
+ */
